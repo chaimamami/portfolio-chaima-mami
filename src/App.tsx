@@ -122,7 +122,9 @@ const experiences: Experience[] = [
       "Real-time monitoring and notifications",
       "Auditability and traceability",
     ],
-    media: "video",
+    media: "video-report",
+    videoPath: "/videos/tsb-cheque-monitoring.mp4",
+    presentationPath: "/documents/Pr%C3%A9sentation%20pfe%20vf.pdf",
   },
 
   {

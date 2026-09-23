@@ -861,12 +861,12 @@ function App() {
           <div className="orbit orbit-two"></div>
 
           <div className="hero-circle">
-            CM
+            <img
+              src="/image/chaima%20phot.jpeg"
+              alt="Chaima Mami"
+              className="hero-photo"
+            />
           </div>
-
-          <p>
-            DEVOPS • CLOUD • AI • SECURITY
-          </p>
 
         </div>
 
